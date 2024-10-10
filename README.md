@@ -7,7 +7,7 @@ A simple but well-tested Swift package to solve math problems.
 Add this package dependency to your Xcode project: `https://github.com/wegenerlabs/NaturalMath.git`
 
 Call the package like this:
-```
+```swift
 import Natural Math
 
 let result = NaturalMath("1+2").result
